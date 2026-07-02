@@ -38,29 +38,28 @@ I'm a **Bachelor of Engineering in Computer Science**, passionate about building
 
 | Project Name                    | Tech Stack                             | Description                                         | Demo / Code |
 |----------------------------------|----------------------------------------|-----------------------------------------------------|-------------|
-| 🔗 Realtime Clipboard App        | HTML, CSS, JS, Firebase                | Share clipboard text in real-time between devices   | [View Project](https://your-demo-link) |
+| 🔗 Realtime Clipboard App        | HTML, CSS, JS, Firebase                | Share clipboard text in real-time between devices   | [View Project]([https://livclip.netlify.app/]) |
 | 🎮 Java Games Collection         | Java                                   | Console-based classic games                         | [View Code](https://github.com/your-username/repo) |
 | 📊 Sales Dashboard               | HTML, CSS, JavaScript, Chart.js        | Interactive dashboard with dynamic charts           | [View Project](https://your-demo-link) |
 | 🌐 Portfolio Website             | HTML, CSS, JS, Tailwind CSS, Netlify   | Personal portfolio to showcase my work              | [View Project](https://your-demo-link) |
 | 🔍 Library Management System     | Java, MySQL                            | Manage book lending, returns, and user accounts    | [View Code](https://github.com/your-username/repo) |
 | 📝 To-Do List with Realtime Sync | HTML, CSS, JS, Firebase Realtime DB    | Cloud synced to-do list web application             | [View Project](https://your-demo-link) |
 
-*➡️ More projects on my [GitHub Repositories](https://github.com/your-username?tab=repositories)*
+*➡️ More projects on my [GitHub Repositories](https://github.com/siddharthachaurasia?tab=repositories)*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthachaurasia&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthachaurasia&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthachaurasia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddharthachaurasia)
 
 ---
 
