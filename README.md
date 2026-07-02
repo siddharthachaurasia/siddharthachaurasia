@@ -38,7 +38,7 @@ I'm a **Bachelor of Engineering in Computer Science**, passionate about building
 
 | Project Name                    | Tech Stack                             | Description                                         | Demo / Code |
 |----------------------------------|----------------------------------------|-----------------------------------------------------|-------------|
-| 🔗 Realtime Clipboard App        | HTML, CSS, JS, Firebase                | Share clipboard text in real-time between devices   | [View Project](https://livclip.netlify.app/) |
+| 🔗 Realtime Clipboard App        | HTML, CSS, JS, Firebase                | Share clipboard text in real-time between devices   | [View Project](https://livclip.netlify.app/target="_blank") |
 | 🎮 Java Games Collection         | Java                                   | Console-based classic games                         | [View Code](https://github.com/your-username/repo) |
 | 📊 Sales Dashboard               | HTML, CSS, JavaScript, Chart.js        | Interactive dashboard with dynamic charts           | [View Project](https://your-demo-link) |
 | 🌐 Portfolio Website             | HTML, CSS, JS, Tailwind CSS, Netlify   | Personal portfolio to showcase my work              | [View Project](https://your-demo-link) |
